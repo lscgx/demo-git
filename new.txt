@@ -1,6 +1,4 @@
 howdy!
 hello!
 hi!
-yzhid
-lv
-ww
+test checkout file. 
