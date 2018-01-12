@@ -1,3 +1,9 @@
 reset.xtxt
 
+<<<<<<< HEAD
 this is master
+=======
+this is master
+
+new branch
+>>>>>>> demo-branch
